@@ -9,13 +9,13 @@
     "content": "Billetera de criptomonedas inteligente y seguro para Bitcoin (BTC), TRON (TRX), Ethereum (ETH), Binance (BNB), Litecoin (LTC), Stable Dolar (USDT) y otros activos de criptomonedas importantes. Y creciendo ... todavía hay mucha adición.",
     "iosbutton": {
       "enable": true,
-      "alt": "Download Apple Wallet",
+      "alt": "Descargar Apple Wallet",
       "image": "images/btn-ios.svg",
       "link": "https://apps.apple.com/us/app/id1525584688"
     },
     "androidbutton": {
       "enable": true,
-      "alt": "Download Android Wallet",
+      "alt": "Descargar Android Wallet",
       "image": "images/btn-android.svg",
       "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
     }
@@ -148,7 +148,7 @@
       }
 
     ],
-    "next_title": "¿Cuáles son los siguientes?",
+    "next_title": "¿Cuáles son las siguientes?",
     "next_content": "Nuestro equipo ya está trabajando para agregar nuevos mercados que deberían aparecer pronto en la billetera.",
     "next_item":[
       {

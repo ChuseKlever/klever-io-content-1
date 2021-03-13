@@ -9,17 +9,17 @@
     "image": "images/banner/mockup-hero.png",
     "iosbutton": {
       "enable": true,
-      "alt": "Download Apple Wallet",
+      "alt": "Descargar Apple Wallet",
       "image": "images/btn-ios.svg",
       "link": "https://apps.apple.com/us/app/id1525584688"
     },
     "androidbutton": {
       "enable": true,
-      "alt": "Download Android Wallet",
+      "alt": "Descargar Android Wallet",
       "image": "images/btn-android.svg",
       "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
     }
-  },
+   },
 
   "buy_crypto": {
     "enable": true,
@@ -27,27 +27,7 @@
     "name": "Compre criptomonedas con tarjeta de crédito",
     "content": "Comience su inversión en criptomonedas comprando en la aplicación con una tarjeta de crédito.",
     "image": "images/buy-crypto.png"
-  },
-
-  "feature": {
-    "enable": true,
-    "subtitle": "Por qué Klever Wallet es su mejor opción",
-    "title": "Completa, segura y fácil de usar.",
-    "feature_item":[
-      {
-        "name": "Soporte 24/7",
-        "content": "El soporte es uno de nuestros aspectos más destacados. Contamos con un equipo de servicio global y rápido."
-      },
-      {
-        "name": "Peer-to-Peer",
-        "content": "Klever es una red p2p descentralizada con carteras de autocuidado. Tus llaves, tus criptas."
-      },
-      {
-        "name": "Cifrado militar",
-        "content": "Klever utiliza la última tecnología de grado militar para el cifrado."
-      }
-    ]
-  },
+   },
 
 
 
@@ -61,13 +41,13 @@
     "swap_count": "+500k Intercambios realizados",
     "iosbutton": {
       "enable": true,
-      "alt": "Download Apple Wallet",
+      "alt": "Descargar Apple Wallet",
       "image": "images/btn-ios.svg",
       "link": "https://apps.apple.com/us/app/id1525584688"
     },
     "androidbutton": {
       "enable": true,
-      "alt": "Download Android Wallet",
+      "alt": "Descargar Android Wallet",
       "image": "images/btn-android.svg",
       "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
     }
@@ -85,16 +65,43 @@
     "swap_count": "+500k Swaps realizado",
     "iosbutton": {
       "enable": true,
-      "alt": "Download Apple Wallet",
+      "alt": "Descargar Apple Wallet",
       "image": "images/btn-ios.svg",
       "link": "https://apps.apple.com/us/app/id1525584688"
     },
     "androidbutton": {
       "enable": true,
-      "alt": "Download Android Wallet",
+      "alt": "Descargar Android Wallet",
       "image": "images/btn-android.svg",
       "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
     }
+  },
+
+
+
+
+
+  "feature": {
+    "enable": true,
+    "subtitle": "¿Porque  Klever Wallet es tu mejor opción?",
+    "title": "Completa, segura y facil de usar.",
+    "feature_item":[
+      {
+        "name": "Soporte 24/7",
+        "icon": "icon-tutorials",
+        "content": "El soporte es uno de nuestros aspectos más destacados. Contamos con un equipo de servicio global y de clase mundial."
+      },
+      {
+        "name": "Peer-to-Peer",
+        "icon": "icon-switch",
+        "content": "Klever e una wallet p2p descentralizada y autocustodiada. Tus claves, tus cryptos."
+      },
+      {
+        "name": "Military encryption",
+        "icon": "icon-lock",
+        "content": "Klever utiliza la última tecnología de grado militar para el cifrado."
+      }
+    ]
   },
 
 
@@ -105,14 +112,12 @@
     "title": "+30 ",
     "title_countries": "idiomas",
     "content":"Establezca el idioma y la moneda base de su cartera para una experiencia ideal.",
-
     "referral":" ¡También tenemos un increíble programa de referencias! Sin ponzi.",
 
     "circle_title": "+190",
     "circle_text": "países"
 
   },
-
 
   "testimonial": {
     "enable": true,
@@ -153,7 +158,7 @@
         "name": "James Rolls",
         "image": "images/reviews/5_stars.svg",
         "rating": "5",
-        "content": "Esta billetera totalmente INCREÍBLE ES la mejor billetera criptográfica en mi opinión."
+        "content": "Esta billetera totalmente INCREÍBLE es la mejor billetera criptográfica en mi opinión."
       },
       {
         "name": "BENSDAD143",
@@ -167,18 +172,18 @@
 
   "download": {
     "enable": true,
-    "title": "Download Klever Wallet",
+    "title": "Descargar Klever Wallet",
     "image": "images/download-mobile-img.jpg",
     "content": "No te quedes fuera, descarga Klever Wallet hoy y aprovecha todas las funcionalidades de las principales criptomonedas del mercado.",
     "iosbutton": {
       "enable": true,
-      "alt": "Download Apple Wallet",
+      "alt": "Descargar Apple Wallet",
       "image": "images/btn-ios.svg",
       "link": "https://apps.apple.com/us/app/id1525584688"
     },
     "androidbutton": {
       "enable": true,
-      "alt": "Download Android Wallet",
+      "alt": "Descargar Android Wallet",
       "image": "images/btn-android.svg",
       "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
     }
@@ -208,4 +213,6 @@
       
     ]
   }
+
+
 }

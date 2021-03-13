@@ -11,13 +11,13 @@
     "content": "El navegador Dapps de Klever Wallet es una interfaz de integración simple y segura entre sus Dapps favoritos y su cuenta de blockchain. Nuestro navegador Dapp es actualmente compatible con Dapps de la cadena de bloques Tron y Dapps de la cadena de bloques Ethereum.",
     "iosbutton": {
       "enable": true,
-      "alt": "Download Apple Wallet",
+      "alt": "Descargar Apple Wallet",
       "image": "images/btn-ios.svg",
       "link": "https://apps.apple.com/us/app/id1525584688"
     },
     "androidbutton": {
       "enable": true,
-      "alt": "Download Android Wallet",
+      "alt": "Descargar Android Wallet",
       "image": "images/btn-android.svg",
       "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
     }
@@ -36,12 +36,12 @@
         "category":"games"
       },
       {
-        "name": "Intercambio",
+        "name": "Intercambios",
         "icon": "icon-exchange",
         "category":"exchange"
       },
       {
-        "name": "Collectibles",
+        "name": "Colecciones",
         "icon": "icon-collectibles",
         "category":"collectibles"
       },
@@ -56,12 +56,12 @@
         "category":"defi"
       },
       {
-        "name": "Préstamo",
+        "name": "Préstamos",
         "icon": "icon-loan",
         "category":"loan"
       },
       {
-        "name": "Viaje",
+        "name": "Viajes",
         "icon": "icon-travel",
         "category":"travel"
       },
