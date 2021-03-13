@@ -2,23 +2,27 @@
 
 
   "started": {
-    "enable": true,
-    "time_start": "Tiempo para comenzar",
-    "start_content": "<p> La dirección del pool se publicará después de que finalice la cuenta atrás. </p>"
+    "enable": false,
+    "time_start": "Tiempo de empezar",
+    "start_content": "<p>La dirección del grupo se dará a conocer después de que finalice la cuenta atrás.</p>",
+    "time_left" : "Tiempo restante",
+    "left_content": "<p>La dirección del pool se dará a conocer después de que finalice la cuenta atrás.</p>",
+    "start_date": "Comienza el 22 de marzo de 2021",
+    "klv_burn": "Todo el KLV utilizado para extraer KFI de los Pools Mineros se quemará"
   },
 
 
   "how": {
-    "enable": true,
+    "enable": false,
     "subtitle": "Klever Finance Token (KFI)",
-    "title": "¿Como minar KFI?",
+    "title": "Cómo minar KFI?",
     "content_alert":"Lea todas las instrucciones detenidamente. Si su depósito no cumple con todos los requisitos a continuación, perderá su KLV.",
     "content":"<p> Las personas que tengan el token KLV podrán agregarlo como liquidez para extraer el token KFI al final del plazo. </p> <ul> <li> 1. El proceso será automático, solo envíe su KLV a la dirección del Código QR *. </li> <li> 2. Todo el KLV enviado a esta dirección se grabará al final del plazo cuando se distribuya el KFI. </li> </ul>"
-    
   },
 
+
   "mine_data": {
-    "enable": true,
+    "enable": false,
     "total_burnt_title":"Total Pool",
     "total_burnt_icon":"🔥",
     "total_burnt_tip":"Total KLV recibidos en la dirección del minado",
@@ -41,6 +45,7 @@
     "time_left" : "Tiempo restante"
   },
 
+
   "userdata" :{
     "enable" : true,
     "total_sent": "Total enviado al pool",
@@ -62,6 +67,10 @@
   },
 
 
+  "highlight":{
+    "enable": true,
+    "content_highlight":"El token de finanzas de Klever (KFI) es el token de gobernanza de la cadena de bloques de Klever."
+  },
 
   "faq": {
     "enable": true,
@@ -76,10 +85,9 @@
         "name": "Como pueo usar KFI en la Klever Blockchain?",
         "content": "<p> Puede usar KFI en Klever Blockchain para: </p> <ul> <li> • Votar por nuevas propuestas </li> <li> • Votar por nuevos proyectos </li> <li> • Votar por el cambio propuestas </li> <li> • Votar por propuestas de actualización </li> <li> • Obtener recompensas de la red </li> </ul>"
       }
-      
+
     ]
   }
-
 
 
 }
